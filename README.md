@@ -1,2 +1,4 @@
 # hello-go
-Go by Example: Hello World
+form the official docs
+Your first program
+https://golang.org/doc/code.html#Command
