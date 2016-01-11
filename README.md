@@ -1,5 +1,4 @@
 # hello-go
-form the official docs
+Form the official documentation
 Your first program
 [https://golang.org/doc/code.html#Command](https://golang.org/doc/code.html#Command)
-
